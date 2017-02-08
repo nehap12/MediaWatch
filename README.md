@@ -1,1 +1,1 @@
-# Angular 2 Angular 2 Application
+# Angular 2 Application
