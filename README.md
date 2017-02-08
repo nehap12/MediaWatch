@@ -1,2 +1,1 @@
-# MediaWatch
-Angular 2 application
+# Angular 2 Angular 2 Application
